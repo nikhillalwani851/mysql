@@ -1,0 +1,1 @@
+CREATE TABLE bm(marks int(4));
